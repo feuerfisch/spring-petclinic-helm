@@ -1,0 +1,5 @@
+name: petclinic
+description: |
+  Demo application.
+version: v0.1
+category: webapp
